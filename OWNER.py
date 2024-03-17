@@ -1,10 +1,9 @@
 # متطلبات التنصيب #
-OWNER = ["K_O_W_5", "IIUll_l"]
-OWNER_NAME = "ْ𓆩⧛ َ 𝘼َِ𝙁َِ𝙍َِ𝙊َِ𝙊َِ𝙏َِ𝙊ِ ┇ عـ๋͜‏ـۂفــ͡ـࢪتوُ ⧚𓆪"
-BOT_TOKEN = "6368773285:AAHTC8m6vX-6O4N7YfT27HQp0ZSQjWgdnZo"
-DATABASE = "mongodb+srv://bot_vambir:Al2552001@cluster0.heabj.mongodb.net/vambir_bot?retryWrites=true&w=majority"
-CHANNEL = "https://t.me/UI_VM"
-GROUP = "https://t.me/YR_HX"
-VIDEO = "https://t.me/GGGTJ8t/2"
-LOGS = "GGGTJ8t"
-
+OWNER = ["T4_Mohamed", "T4_Mohamed"]
+OWNER_NAME = "👿Mohamedّ"
+BOT_TOKEN = "7133439731:AAG9VK6hm-Hn962-Hn4DKuwVojdIm0sEIsE"
+DATABASE = "mongodb+srv://fraon:ahmed@programmerfraon.n69lkx4.mongodb.net/?retryWrites=true&w=majority"
+CHANNEL = "https://t.me/k_40_x"
+GROUP = "https://t.me/k_40_x"
+VIDEO = "https://t.me/HLV_M/720"
+LOGS = "SAGAL_botk"
